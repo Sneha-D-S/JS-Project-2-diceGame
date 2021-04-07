@@ -92,3 +92,4 @@ newGame.addEventListener('click', function () {
   //Resetting the game;
   intil();
 });
+console.log('New');
